@@ -1,0 +1,8 @@
+﻿  bmp.cpp
+  image_composer.cpp
+C:\Users\v.yakubov\source\repos\bmpImageComposer\image_composer\image_composer.cpp(54,10): warning C4101: pixel: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  image_composer.vcxproj -> C:\Users\v.yakubov\source\repos\bmpImageComposer\x64\Release\image_composer.exe
