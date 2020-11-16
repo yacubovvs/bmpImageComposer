@@ -1,3 +1,3 @@
 ﻿  image_composer.cpp
-C:\Users\v.yakubov\source\repos\bmpImageComposer\image_composer\image_composer.cpp(44,10): warning C4101: pixel: неиспользованная локальная переменная
+C:\Users\v.yakubov\source\repos\bmpImageComposer\image_composer\image_composer.cpp(54,10): warning C4101: pixel: неиспользованная локальная переменная
   image_composer.vcxproj -> C:\Users\v.yakubov\source\repos\bmpImageComposer\Debug\image_composer.exe
